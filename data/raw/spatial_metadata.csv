@@ -1,0 +1,9 @@
+spot_id,region,x,y
+s1,immune_niche,10,20
+s2,myeloid_zone,20,30
+s3,epithelial_edge,30,15
+s4,mixed_core,25,25
+s5,immune_niche,12,18
+s6,myeloid_zone,22,28
+s7,epithelial_edge,32,17
+s8,mixed_core,26,23
